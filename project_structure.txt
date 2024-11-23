@@ -1,0 +1,16 @@
+├── index.html
+├── public/
+├── src/
+│   ├── main.jsx
+│   ├── App.jsx
+│   ├── index.css
+│   ├── lib/
+│   │   └── utils.js
+│   ├── components/
+│   │   ├── ui/
+│   │   │   ├── button.jsx
+│   │   │   ├── card.jsx
+│   │   │   └── select.jsx
+│   │   └── ModelInference.jsx
+│   └── services/
+│       └── inferenceService.js
